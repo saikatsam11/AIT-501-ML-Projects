@@ -1,1 +1,1 @@
-# AIT-501-ML-Projects
+# AIT-511-ML-Projects
